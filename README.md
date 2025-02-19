@@ -4,4 +4,4 @@
 VSharp by XnX1234 is an implementation of V#.
 
 <h2>Orginal V#</h2>
-Orginal creator of V# is FuncieqDEV(https://github.com/funcieqDEV/)
+Orginal creator of V# is FuncieqDEV (https://github.com/funcieqDEV/)
